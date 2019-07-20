@@ -1,0 +1,7 @@
+Unable to launch WebDriverAgent because of xcodebuild failure: "Command 'Scripts/bootstrap.sh -d' exited with code 1"
+https://github.com/appium/appium/issues/9344
+
+
+react-native run-ios --simulator="iPhone 8 Plus"
+
+

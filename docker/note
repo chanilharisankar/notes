@@ -1,0 +1,28 @@
+expose vs publish
+--------------------------------------
+Basically, you have three options:
+
+Neither specify EXPOSE nor -p
+Only specify EXPOSE
+Specify EXPOSE and -p
+1) If you do not specify neither EXPOSE nor -p, the service in the container will only be accessible from inside the container itself.
+
+2) If you EXPOSE a port, the service in the container is not accessible from outside Docker, but from inside other Docker containers. So this is good for inter-container communication.
+
+3) If you EXPOSE and -p a port, the service in the container is accessible from anywhere, even outside Docker.
+
+link:- https://docs.docker.com/engine/reference/builder/#expose
+
+
+networking
+--------------------------------------
+bridge
+host network
+
+kude dashboard
+----------------
+https://rominirani.com/tutorial-getting-started-with-kubernetes-with-docker-on-mac-7f58467203fd
+
+questions:-
+https://www.udemy.com/docker-interview-question-and-answer-100-faq/?couponCode=DISCOUNT&fbclid=IwAR350lDPRXQxfxUGLfuuLPXU_Hp81-D-Dwc3Xrf1G4uZuiainpKaHyr7Nys
+
