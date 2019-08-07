@@ -1,0 +1,10 @@
+A CDN allows for the quick transfer of assets needed for loading Internet content including HTML pages, javascript files, stylesheets, images, and videos 
+it cache content at the network edge, which improves web application performance
+
+a cdn is network of servers linked together to deliver content faster.inorder to improve speed and connectivity CDN will be placed at axchange point of ISPs this is called IXP ( Internet exchange points ). at IXP these ISP talks to different networks 
+
+
+
+
+ref:- 
+https://www.cloudflare.com/learning/cdn/what-is-a-cdn/

@@ -1,0 +1,5 @@
+can atchive a point-to-point Ethernet network betwen asure and on-premises network by the help of ISPs.
+request/data wont go to internet. its most secure and fastest connection betwen service provider and on-premise netword
+
+aws provides same service with a name Direct connect
+gcp provides same service with name Direct Peering
