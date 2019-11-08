@@ -1,0 +1,8 @@
+CIDR
+-------------------------------
+-flexible way of defining IP
+-To illustrate the problems with the class system, consider that one of the most commonly used classes was Class B. An organization that needed more than 254 host machines would often get a Class B license, even though it would have far fewer than 65,534 hosts. This resulted in most of the block of addresses allocated going unused. The inflexibility of the class system accelerated IPv4 address pool exhaustion
+-CIDR reduced the problem of wasted address space by providing a new and more flexible way to specify network addresses in routers.
+
+192.30.250.00/18
+-The "192.30.250.0" is the network address itself and the "18" says that the first 18 bits are the network part of the address, leaving the last 14 bits for specific host addresses.

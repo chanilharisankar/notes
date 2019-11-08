@@ -1,0 +1,13 @@
+vnet
+subnet
+CIDR block
+IP Addresses
+NSG
+on-premise network connectivity
+NIC
+Azure load balancer
+DNS
+Application getways
+trafic manager
+UDR
+Forced tunnling
