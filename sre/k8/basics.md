@@ -35,5 +35,4 @@ general
   * kubetail
 
 
-  
-
+![](../files/kubebasics.png)  
