@@ -38,3 +38,7 @@
     * Ngrep
 5. code analysis tool 
     * [codescene](https://codescene.io/)
+6. resource monitor tools
+    * df
+    * top
+    * htop
