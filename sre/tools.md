@@ -28,6 +28,10 @@
       * development and testing of Ansible roles
     * [chart-resting](https://github.com/helm/chart-testing) 
       * testing helm chart 
+    * [JenkinsPipelineUnit](https://github.com/jenkinsci/JenkinsPipelineUnit)
+      * Jenkins Pipeline Unit testing framework
+    * [nomad](https://www.nomadproject.io/)
+      * workload orchestrator 
 
 2. command-line tool to inject secrets as environment variables
    * [summon](https://cyberark.github.io/summon)
@@ -40,5 +44,6 @@
     * [codescene](https://codescene.io/)
 6. resource monitor tools
     * df
+    * du
     * top
     * htop
